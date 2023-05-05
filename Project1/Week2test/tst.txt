@@ -1,0 +1,10 @@
+nihao
+batchfile
+makefile
+myshell
+myshell.c
+readme
+tst.txt
+batchfile  makefile  myshell  myshell.c  readme  tst.txt
+2
+redirectory secessful

@@ -1,0 +1,10 @@
+nihao
+batchfile
+batchfile2
+makefile
+myshell
+myshell.c
+nihao.txt
+readme
+tst.txt
+batchfile  batchfile2  makefile  myshell  myshell.c  nihao.txt	readme	tst.txt
